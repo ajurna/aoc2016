@@ -1,5 +1,3 @@
-import math
-
 commands = []
 
 with open("01.txt") as f:
@@ -75,8 +73,6 @@ class Computer:
                         continue
             self.pointer += 1
 
-
-part1 = Computer(commands, )
 
 part1 = 0
 while True:
